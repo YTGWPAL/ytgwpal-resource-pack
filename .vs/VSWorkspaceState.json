@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\minecraft"
+    "\\assets",
+    "\\assets\\minecraft",
+    "\\assets\\minecraft\\lang"
   ],
-  "SelectedNode": "\\assets",
+  "SelectedNode": "\\assets\\minecraft\\lang\\en_us.json",
   "PreviewInSolutionExplorer": false
 }
