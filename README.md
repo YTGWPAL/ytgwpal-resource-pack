@@ -1,6 +1,6 @@
 # the ytgwpal resource pack
 ## wtf is this
-idk funny minecraft resource pack made by some people in a friend group
+funny resource pack made by some people in a friend group
 ## what wacky stuff is in it?????
 - seizure ore
 - sans
@@ -18,4 +18,4 @@ idk funny minecraft resource pack made by some people in a friend group
 - entire kanye west late registration album (DLC ONLY)
 - **AND MORE!**
 ## yooo this sounds cool how to download
-go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `Official.YTGWPAL.Resource.Pack.zip` (optionally `Official.YTGWPAL.Resource.Pack.DLC.zip` for kanye west late registration) and put it in your resourcepacks folder
+go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `Official.YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder (optionally `Official.YTGWPAL.Resource.Pack.DLC.zip` for kanye west late registration)
