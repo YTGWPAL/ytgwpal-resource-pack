@@ -15,7 +15,7 @@ funny resource pack made by some people in a friend group
 - spo
 - fart with extra reverb
 - new music
-- entire kanye west late registration album (DLC ONLY)
+- entire kanye west late registration album
 - **AND MORE!**
 ## yooo this sounds cool how to download
-go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `Official.YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder (optionally `Official.YTGWPAL.Resource.Pack.DLC.zip` for kanye west late registration)
+go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `Official.YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder
