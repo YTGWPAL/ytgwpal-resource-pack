@@ -18,4 +18,4 @@ funny resource pack made by some people in a friend group
 - entire kanye west late registration album
 - **AND MORE!**
 ## yooo this sounds cool how to download
-go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `Official.YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder
+go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder
