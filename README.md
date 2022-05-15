@@ -9,6 +9,7 @@ funny resource pack made by some people in a friend group
 - cups
 - cans
 - chicken nuggets
+- pilk
 - frybred
 - cheez on da stick
 - bear gay
@@ -17,5 +18,5 @@ funny resource pack made by some people in a friend group
 - new music
 - entire kanye west late registration album
 - **AND MORE!**
-## yooo this sounds cool how to download
+## yooo this sounds cool how do i download
 go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `YTGWPAL.Resource.Pack.zip` to download it, then put it in your resourcepacks folder
