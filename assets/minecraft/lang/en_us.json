@@ -11,7 +11,7 @@
   "item.minecraft.cod_bucket": "Cup of Cod",
   "item.minecraft.powder_snow_bucket": "Powder Snow Cup",
   "item.minecraft.axolotl_bucket": "Cup of Axolotl",
-  "item.minecraft.milk_bucket": "Milk Cup",
+  "item.minecraft.milk_bucket": "Pilk Cup",
   "item.minecraft.music_disc_13.desc": "Bear - frybred",
   "item.minecraft.music_disc_cat.desc": "Leonz - Among Us Trap Remix",
   "item.minecraft.music_disc_blocks.desc": "Bear - Cheez on da stick",
@@ -47,6 +47,6 @@
   "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Beehive using a Can without aggravating the bees",
   "advancements.end.dragon_breath.description": "Collect dragon's breath in an aluminum can",
   "advancements.story.form_obsidian.title": "Ice Cup Challenge",
-  "advancements.story.lava_bucket.description": "Fill a cup with lava"
+  "advancements.story.lava_bucket.description": "Fill a cup with lava",
   "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration"
 }
