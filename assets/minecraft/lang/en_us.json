@@ -48,5 +48,10 @@
   "advancements.end.dragon_breath.description": "Collect dragon's breath in an aluminum can",
   "advancements.story.form_obsidian.title": "Ice Cup Challenge",
   "advancements.story.lava_bucket.description": "Fill a cup with lava",
-  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration"
+  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration",
+  "subtitles.entity.cow.milk": "Cow gets pilked",
+  "subtitles.entity.goat.milk": "Goat gets pilked",
+  "subtitles.entity.mooshroom.milk": "Mooshroom gets pilked",
+  "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
+  "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk"
 }
