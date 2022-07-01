@@ -7,5 +7,5 @@
 - Add sussy Red Mushroom
   - `assets/minecraft/textures/block/red_mushroom.png`
 - Change Carved Pumpkin (block or overlay?)
-- Change Steve and Alex skins
+- Change Steve and Alex skins to Brimstone and ???
 - Change Yellow Glazed Terracotta to musty yellow wallpaper
