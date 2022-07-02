@@ -1,4 +1,6 @@
 # wip branch
+this is a beta branch of the ytgwpal resource pack. nothing here is final, and stuff in the checklist may or may not be in the final version.  
+if you don't like waiting, feel free to download this branch. remember that this version is unfinished and not everything has been added yet.
 ## checklist
 - Add shard to all Shard items
   - `assets/minecraft/textures/item/amethyst_shard.png`
