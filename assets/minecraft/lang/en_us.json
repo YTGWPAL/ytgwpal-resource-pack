@@ -54,9 +54,6 @@
   "subtitles.entity.mooshroom.milk": "Mooshroom gets pilked",
   "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
   "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk",
-  "item.minecraft.ender_pearl": "Enderman Testicle",
-  "entity.minecraft.ender_pearl": "Thrown Enderman Testicle",
-  "subtitles.entity.ender_pearl.throw": "Enderman Testicle flies",
   "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost",
   "item.minecraft.music_disc_ward.desc": "Weezer - Weezer"
 }
