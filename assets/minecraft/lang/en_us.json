@@ -15,7 +15,6 @@
   "item.minecraft.music_disc_13.desc": "Bear - frybred",
   "item.minecraft.music_disc_cat.desc": "Leonz - Among Us Trap Remix",
   "item.minecraft.music_disc_blocks.desc": "Bear - Cheez on da stick",
-  "item.minecraft.music_disc_mellohi.desc": "mrgirl - I Can Fantasize About Whatever I Want",
   "item.minecraft.lapis_lazuli": "Seizure Essence",
   "item.minecraft.glass_bottle": "Can",
   "item.minecraft.spider_eye": "Spo Eye",
@@ -55,5 +54,10 @@
   "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
   "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk",
   "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost",
-  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer"
+  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer",
+  "death.attack.mob": "%1$s was brutually murdered by %2$s",
+  "death.attack.mob.item": "%1$s was brutually murdered by %2$s using %3$s",
+  "death.attack.player": "%1$s was brutually murdered by %2$s",
+  "death.attack.player.item": "%1$s was brutually murdered by %2$s using %3$s",
+  "death.fell.accident.generic": "%1$s slipped and fell and died"
 }
