@@ -26,8 +26,8 @@ for ADVANCED and INTELLIGENT people, go to your resourcepacks folder and run `gi
 [Bear - frybred](https://youtu.be/r0E4yBxnK3o)  
 [Leonz - Among Us Trap Remix](https://www.youtube.com/watch?v=grd-K33tOSM)  
 [Bear - Cheez on da stick](https://youtu.be/J-mlIUTMziE)  
-[Kanye West - Late Registration](https://youtube.com/playlist?list=OLAK5uy_mS2sPIJinRK2fIXN9Ce756lZFRX2KT21o)[^1]  
-[Tyler, the Creator - Call Me If You Get Lost](https://youtube.com/playlist?list=OLAK5uy_lzJXyds7tiw-cUS9Zg9wXRSiWpNJM6i7s)  
+[Kanye West - Late Registration](https://youtube.com/playlist?list=OLAK5uy_mS2sPIJinRK2fIXN9Ce756lZFRX2KT21o)  
+[Tyler, the Creator - Call Me If You Get Lost: The Estate Sale](https://www.youtube.com/playlist?list=OLAK5uy_k4n6ZtIK5tVGcq1aexNjVN8CMP1MbM8ew)  
 [Weezer - Weezer](https://youtube.com/playlist?list=OLAK5uy_kbgBewntTJ9MVzxPA3RZKgI_CVs8tgQ3k)  
 [Toby Fox - Megalovania](https://youtu.be/0FCvzsVlXpQ)
 [^1]: this was added before his antisemitic remarks. WE DO NOT CONDONE ANYTHING KANYE HAS SAID OR DONE, he is a horrible person but his music still goes hard
