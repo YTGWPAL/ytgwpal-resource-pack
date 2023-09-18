@@ -47,17 +47,18 @@
   "advancements.end.dragon_breath.description": "Collect Dragon's Breath in an Aluminum Can",
   "advancements.story.form_obsidian.title": "Ice Cup Challenge",
   "advancements.story.lava_bucket.description": "Fill a Cup with lava",
-  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration",
   "subtitles.entity.cow.milk": "Cow gets pilked",
   "subtitles.entity.goat.milk": "Goat gets pilked",
   "subtitles.entity.mooshroom.milk": "Mooshroom gets pilked",
   "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
   "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk",
-  "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
-  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer",
   "death.attack.mob": "%1$s was brutually murdered by %2$s",
   "death.attack.mob.item": "%1$s was brutually murdered by %2$s using %3$s",
   "death.attack.player": "%1$s was brutually murdered by %2$s",
   "death.attack.player.item": "%1$s was brutually murdered by %2$s using %3$s",
-  "death.fell.accident.generic": "%1$s slipped and fell and died"
+  "death.fell.accident.generic": "%1$s slipped and fell and died",
+  "item.minecraft.music_disc_5.desc": "Darian - Triangular Garden / Hot Again",
+  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration",
+  "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
+  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer"
 }
