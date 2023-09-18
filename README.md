@@ -31,3 +31,4 @@ for ADVANCED and INTELLIGENT people, go to your resourcepacks folder and run `gi
 [Toby Fox - Megalovania](https://youtu.be/0FCvzsVlXpQ)  
 [Tyler, the Creator - Call Me If You Get Lost: The Estate Sale](https://www.youtube.com/playlist?list=OLAK5uy_k4n6ZtIK5tVGcq1aexNjVN8CMP1MbM8ew)  
 [Weezer - Weezer](https://youtube.com/playlist?list=OLAK5uy_kbgBewntTJ9MVzxPA3RZKgI_CVs8tgQ3k)
+>note: there has been a bug ([MC-260346](https://bugs.mojang.com/browse/MC-260346)) since 1.19.4 that cuts off custom music if it's longer than the original audio. please know this isn't a bug from the resource pack and we can't do anything about it
