@@ -14,6 +14,7 @@ funny resource pack made by some people in a friend group
 - cheez on da stick
 - bear gay
 - spo
+- funny bunnies
 - fart with extra reverb
 - new music
 - entire kanye west late registration album
