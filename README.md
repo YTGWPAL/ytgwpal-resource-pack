@@ -1,5 +1,6 @@
 # the ytgwpal resource pack
->NOTE: there has been a bug ([MC-260346](https://bugs.mojang.com/browse/MC-260346)) since 1.19.4 that cuts off custom music if it's longer than the original audio. please know this isn't a bug from the resource pack and we can't do anything about it
+>[!NOTE]
+>there has been a bug ([MC-260346](https://bugs.mojang.com/browse/MC-260346)) since 1.19.4 that cuts off custom music if it's longer than the original audio. please know this isn't a bug from the resource pack and we can't do anything about it
 >
 >UPDATE (3/1/2024): a mod came out a couple days ago that fixes this bug, though it will only work on singleplayer and servers will need to install it for it to work in multiplayer. [get the mod here](https://modrinth.com/mod/jukebox-custom-disc-fix) (fabric 1.20.4 only)
 ## wtf is this
