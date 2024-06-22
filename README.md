@@ -1,8 +1,12 @@
 # the ytgwpal resource pack
->[!NOTE]
->there has been a bug ([MC-260346](https://bugs.mojang.com/browse/MC-260346)) since 1.19.4 that cuts off custom music if it's longer than the original audio. please know this isn't a bug from the resource pack and we can't do anything about it
+>[!note]
+>as of 1.21, custom music discs are now handled through datapacks. i have no plans on creating a datapack to fix the discs, so instead you should install the [Jukebox Custom Disc Fix](https://modrinth.com/mod/jukebox-custom-disc-fix) mod. this mod originally fixed [MC-260346](https://bugs.mojang.com/browse/MC-260346) (present in 1.19.4-1.20.6) but is now still needed for custom music in resource packs to work 1.21+ in without a datapack.
 >
->UPDATE (3/1/2024): a mod came out a couple days ago that fixes this bug, though it will only work on singleplayer and servers will need to install it for it to work in multiplayer. [get the mod here](https://modrinth.com/mod/jukebox-custom-disc-fix) (fabric 1.20.1 and 1.20.4 only)
+>this mod is only for 1.20.1 and 1.20.4+, meaning the following versions won't work with the custom discs:
+>- 1.19.4
+>- 1.20
+>- 1.20.2
+>- 1.20.3
 ## wtf is this
 funny resource pack made by some people in a friend group
 ## what wacky stuff is in it?????
@@ -25,8 +29,6 @@ funny resource pack made by some people in a friend group
 - **AND MORE!**
 ## yooo this sounds cool how do i download it
 go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and click `YTGWPAL.Resource.Pack.zip` to download the pack, then put it in your resourcepacks folder (`YTGWPAL.Resource.Pack.DLC.zip` for the albums)
-
-for ADVANCED and INTELLIGENT people, go to your resourcepacks folder and run `git clone https://github.com/YTGWPAL/ytgwpal-resource-pack.git`
 ## music credits
 [Bear - frybred](https://youtu.be/r0E4yBxnK3o)  
 [Bear - Cheez on da stick](https://youtu.be/J-mlIUTMziE)  
