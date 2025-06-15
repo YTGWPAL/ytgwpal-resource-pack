@@ -1,12 +1,8 @@
 # the ytgwpal resource pack
 >[!note]
->as of 1.21, custom music discs are now handled through datapacks. i have no plans on creating a datapack to fix the discs, so instead you should install the [Jukebox Custom Disc Fix](https://modrinth.com/mod/jukebox-custom-disc-fix) mod. this mod originally fixed [MC-260346](https://bugs.mojang.com/browse/MC-260346) (present in 1.19.4-1.20.6) but is now still needed for custom music in resource packs to work 1.21+ in without a datapack.
+>as of 1.21, custom music discs are now handled through datapacks. i have no plans on creating a datapack to fix the discs, so instead you should install the [Jukebox Custom Disc Fix](https://modrinth.com/mod/jukebox-custom-disc-fix) mod. this mod originally fixed [MC-260346](https://bugs.mojang.com/browse/MC-260346) (present in 1.19.4-1.20.6) but is now still needed for custom music in resource packs to work in 1.21+ without a datapack.
 >
->this mod is only for 1.20.1 and 1.20.4+, meaning the following versions won't work with the custom discs:
->- 1.19.4
->- 1.20
->- 1.20.2
->- 1.20.3
+>this mod is only for 1.20.1+ minus 1.20.3, meaning 1.19.4, 1.20, and 1.20.3 won't work with the custom discs.
 ## wtf is this
 funny resource pack made by some people in a friend group
 ## what wacky stuff is in it?????
