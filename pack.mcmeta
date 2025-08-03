@@ -1,6 +1,21 @@
 {
-    "pack": {
-        "description": "This is the YTGWPAL Resource Pack! v1.7.3",
-        "pack_format": 34
+  "pack": {
+    "description": "This is the YTGWPAL Resource Pack! v1.7.4",
+    "pack_format": 64,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 64
     }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1-20-title-overlay",
+        "formats": {
+          "min_inclusive": 15,
+          "max_inclusive": 64
+        }
+      }
+    ]
+  }
 }

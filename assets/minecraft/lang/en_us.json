@@ -11,6 +11,9 @@
   "item.minecraft.cod_bucket": "Cup of Cod",
   "item.minecraft.powder_snow_bucket": "Powder Snow Cup",
   "item.minecraft.axolotl_bucket": "Cup of Axolotl",
+  "item.minecraft.salmon_bucket": "Cup of Salmon",
+  "item.minecraft.tadpole_bucket": "Cup of Tadpole",
+  "item.minecraft.tropical_fish_bucket": "Cup of Tropical Fish",
   "item.minecraft.milk_bucket": "Pilk Cup",
   "item.minecraft.lapis_lazuli": "Seizure Essence",
   "item.minecraft.glass_bottle": "Can",
@@ -40,6 +43,7 @@
   "subtitles.item.bucket.empty": "Cup empties",
   "subtitles.item.bucket.fill": "Cup fills",
   "advancements.husbandry.axolotl_in_a_bucket.description": "Catch an Axolotl in a Cup",
+  "advancements.husbandry.tadpole_in_a_bucket.description": "Catch a Tadpole in a Cup",
   "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Beehive using a Can without aggravating the Bees",
   "advancements.end.dragon_breath.description": "Collect Dragon's Breath in an Aluminum Can",
   "advancements.story.form_obsidian.title": "Ice Cup Challenge",
@@ -65,11 +69,5 @@
   "jukebox_song.minecraft.blocks": "Bear - Cheez on da stick",
   "item.minecraft.music_disc_5.desc": "Darian - Triangular Garden / Hot Again",
   "jukebox_song.minecraft.5": "Darian - Triangular Garden / Hot Again",
-  "item.minecraft.disc_fragment_5.desc": "Music Disc - Triangular Garden / Hot Again",
-  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration",
-  "jukebox_song.minecraft.mall": "Kanye West - Late Registration",
-  "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
-  "jukebox_song.minecraft.chirp": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
-  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer",
-  "jukebox_song.minecraft.ward": "Weezer - Weezer"
+  "item.minecraft.disc_fragment_5.desc": "Music Disc - Triangular Garden / Hot Again"
 }
