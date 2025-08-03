@@ -65,11 +65,5 @@
   "jukebox_song.minecraft.blocks": "Bear - Cheez on da stick",
   "item.minecraft.music_disc_5.desc": "Darian - Triangular Garden / Hot Again",
   "jukebox_song.minecraft.5": "Darian - Triangular Garden / Hot Again",
-  "item.minecraft.disc_fragment_5.desc": "Music Disc - Triangular Garden / Hot Again",
-  "item.minecraft.music_disc_mall.desc": "Kanye West - Late Registration",
-  "jukebox_song.minecraft.mall": "Kanye West - Late Registration",
-  "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
-  "jukebox_song.minecraft.chirp": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
-  "item.minecraft.music_disc_ward.desc": "Weezer - Weezer",
-  "jukebox_song.minecraft.ward": "Weezer - Weezer"
+  "item.minecraft.disc_fragment_5.desc": "Music Disc - Triangular Garden / Hot Again"
 }
