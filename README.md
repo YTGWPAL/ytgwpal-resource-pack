@@ -29,6 +29,7 @@ go [here](https://github.com/YTGWPAL/ytgwpal-resource-pack/releases/latest) and 
 [Bear - frybred](https://youtu.be/r0E4yBxnK3o)  
 [Bear - Cheez on da stick](https://youtu.be/J-mlIUTMziE)  
 [Darian - Triangular Garden / Hot Again](https://youtu.be/GHdnXEA1t8s)  
+[FLAVOR FOLEY - MIRROR MODULATION](https://www.youtube.com/playlist?list=OLAK5uy_mvYm3M8VuFZlgSNOe-0hhQawwoNj9K2Zs)
 [Kanye West - Late Registration](https://youtube.com/playlist?list=OLAK5uy_mS2sPIJinRK2fIXN9Ce756lZFRX2KT21o)  
 [Leonz - Among Us Trap Remix](https://youtu.be/grd-K33tOSM)  
 [Tyler, the Creator - Call Me If You Get Lost: The Estate Sale](https://www.youtube.com/playlist?list=OLAK5uy_k4n6ZtIK5tVGcq1aexNjVN8CMP1MbM8ew)  

@@ -4,5 +4,9 @@
   "item.minecraft.music_disc_chirp.desc": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
   "jukebox_song.minecraft.chirp": "Tyler, the Creator - Call Me If You Get Lost: The Estate Sale",
   "item.minecraft.music_disc_ward.desc": "Weezer - Weezer",
-  "jukebox_song.minecraft.ward": "Weezer - Weezer"
+  "jukebox_song.minecraft.ward": "Weezer - Weezer",
+  "item.minecraft.music_disc_wait.desc": "FLAVOR FOLEY - MIRROR MODULATION",
+  "jukebox_song.minecraft.wait": "FLAVOR FOLEY - MIRROR MODULATION",
+  "item.minecraft.music_disc_strad.desc": "underscores - U",
+  "jukebox_song.minecraft.strad": "underscores - U"
 }
